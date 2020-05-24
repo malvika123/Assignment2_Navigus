@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215260820049",
+    "firebase_url": "https://doc-viewer-16b93.firebaseio.com",
+    "project_id": "doc-viewer-16b93",
+    "storage_bucket": "doc-viewer-16b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215260820049:android:7f59e37175bfc5bb873e70",
+        "android_client_info": {
+          "package_name": "com.example.docviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215260820049-1tarj1fcojuumfvsiepgit5tmb25ru6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docviewer",
+            "certificate_hash": "88bf6e456aa559db483d6abf5029410629a27fee"
+          }
+        },
+        {
+          "client_id": "215260820049-arjip38ru3dj6abs1tfvt89aiqkcdcmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhAEQDd6MF6RG6QCIPrD4yb52U6Ltkb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215260820049-arjip38ru3dj6abs1tfvt89aiqkcdcmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
